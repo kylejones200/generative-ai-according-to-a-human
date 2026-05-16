@@ -3,8 +3,8 @@ Author: Kyle Jones Publication_date: April 15, 2023 Canonical_link: "https://med
 ---
 # Generative AI, according to a human What humans should know about generative ai
 
-### **Generative AI, according to a human**
-#### **What humans should know about generative ai**
+### Generative AI, according to a human
+#### What humans should know about generative ai
 
 
 <figcaption>Dall.E art by the author</figcaption>
@@ -16,7 +16,7 @@ Generative AI first trains a machine learning model on a huge dataset of existin
 
 Generative AI has a variety of applications, including image and video generation, language translation and generation, music composition, and more. It can potentially revolutionize many fields and industries by enabling machines to create new and innovative content independently without human intervention.
 
-**Generative AI Background**
+Generative AI Background
 
 Generative AI has a long and fascinating history spanning several decades. Here are some of the key milestones:
 
@@ -28,7 +28,7 @@ Generative AI has a long and fascinating history spanning several decades. Here 
 
 Overall, the history of generative AI is a testament to the incredible creativity and ingenuity of researchers in the field, who have worked tirelessly to develop systems that can create entirely new forms of content and push the boundaries of what machines are capable of.
 
-**How Does Generative AI Work?**
+How Does Generative AI Work?
 
 Generative AI uses algorithms to generate new, original content. This content can include anything from images and videos to music and text. Generative AI works by training machine learning models on large datasets of existing content and then using these models to produce fresh content that resembles the original.
 
@@ -40,7 +40,7 @@ Generative adversarial networks are frequently used in generative models built o
 
 Generic machine learning techniques are used in generative AI to create new material similar to current data. This can be used for various applications, from creating art and music to generating realistic images and videos. It can incorporate a variety of approaches, including neural networks and GANs.
 
-**Uses of Generative AI**
+Uses of Generative AI
 
 Generative AI can be used to carry out several operations. Here are some examples:
 
@@ -54,7 +54,7 @@ Generative AI can be used to carry out several operations. Here are some example
 
 These are just a few examples of the many potential use cases for generative AI. We anticipate seeing even more applications arise in various industries as technology develops.
 
-**What are the Benefits of Generative AI?**
+What are the Benefits of Generative AI?
 
 Generative AI has several benefits, and some of them are as follows:
 
@@ -66,7 +66,7 @@ Generative AI has several benefits, and some of them are as follows:
 
 Overall, generative AI can revolutionize various sectors and enhance the efficiency and effectiveness of several operations.
 
-**What are the Limitations of Generative AI?**
+What are the Limitations of Generative AI?
 
 There are several limitations of generative AI, some of which are:
 
@@ -76,7 +76,7 @@ There are several limitations of generative AI, some of which are:
 4.  [Computationally intensive: Generative AI models can be computationally intensive and require large amounts of computing power and time to train and generate output. This can limit their practical applications and make them expensive to run.]
 5.  [Generalization: Generative AI models may struggle to generalize to new and unseen data or tasks outside their training data distribution. This can limit their usefulness in real-world scenarios where the input data may vary widely.]
 
-**What are the Concerns Surrounding Generative AI?**
+What are the Concerns Surrounding Generative AI?
 
 Generative AI is capable of creating new data or content that resembles what a human would produce. It has sparked many concerns regarding its impact on society. Here are some of the main concerns surrounding generative AI:
 
@@ -89,7 +89,7 @@ Generative AI is capable of creating new data or content that resembles what a h
 
 Overall, the concerns surrounding generative AI highlight the need for responsible development, deployment, and regulation of these technologies.
 
-**What are Some Examples of Generative AI Tools?**
+What are Some Examples of Generative AI Tools?
 
 There are many examples of generative AI tools; here are some of the most popular ones:
 
@@ -101,7 +101,7 @@ There are many examples of generative AI tools; here are some of the most popula
 
 These are just a few examples of the many generative AI tools that exist today.
 
-**Uses of Generative AI in Industry**
+Uses of Generative AI in Industry
 
 Generative AI produces original and creative outputs such as images, videos, music, and even text. Here are some use cases for generative AI by industry:
 
@@ -116,7 +116,7 @@ Generative AI produces original and creative outputs such as images, videos, mus
 9.  [Entertainment: Generative AI can be used to create original and engaging content such as music, videos, and movies.]
 10. [Transportation: Generative AI can be used to optimize transportation routes and schedules by analyzing data and predicting traffic patterns.]
 
-**Best Practices for Using Generative AI**
+Best Practices for Using Generative AI
 
 Generative AI, such as GPT-4 & chatGPT, can be a powerful tool for creating a variety of outputs, including text, images, and audio. However, it's crucial to use generative AI responsibly and ethically. Here are some best practices for using generative AI:
 
@@ -127,7 +127,7 @@ Generative AI, such as GPT-4 & chatGPT, can be a powerful tool for creating a va
 5.  [Be transparent: When using generative AI, be transparent about the process and the limitations. This can help build trust with users and stakeholders and ensure the output is appropriately used.]
 6.  [Follow ethical guidelines: Finally, it's important to follow ethical guidelines when using generative AI. This includes respecting Privacy, avoiding harm, and ensuring that the output is fair and equitable.]
 
-**The Future of Generative AI**
+The Future of Generative AI
 
 Generative AI is a rapidly advancing field with immense potential for various applications, including natural language processing, image and video generation, and music composition. As AI technology continues to evolve, the future of generative AI looks promising, with many exciting developments on the horizon.
 
@@ -139,7 +139,7 @@ As the field of generative AI continues to expand, we can expect to see a growin
 
 Overall, the future of generative AI looks bright, with continued technological advances paving the way for exciting new applications and opportunities.
 
-**AI Consciousness ongoing Debate**
+AI Consciousness ongoing Debate
 
 The concept of "consciousness" is still a subject of philosophical debate and scientific study. While there are varying definitions of consciousness, it generally refers to the subjective experience of awareness, perception, and thought.
 
